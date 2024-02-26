@@ -1,0 +1,9 @@
+xgboost==1.0.1
+pandas==2.1.4
+seaborn==0.12.2
+matplotlib==3.7.4
+numpy==1.26.2
+scikit-learn==1.2.2
+streamlit==1.27.0
+streamlit-lottie==1.30.0
+yellowbrick==1.5
